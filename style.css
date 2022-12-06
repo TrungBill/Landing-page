@@ -148,7 +148,58 @@ img{
     font-weight: bolder;
     padding-right: 30%;
 }
-
+.sign-up{
+    background-color: #3882F6;
+    margin: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 5%;
+    border-radius: 10px;
+    
+    
+}
+.promote-text{
+    color: white;
+}
+.promote-text p{
+    font-size: 15px;
+    font-weight: lighter;
+}
+.promote-text h3{
+    font-size: 26px;
+}
+.blue-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.button{
+    margin-right: 10%;
+    
+    
+}
+.button button{
+    display: inline-block;
+    text-decoration: none;
+    color: #e5e7e5;
+    background-color: #3882F6;
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 10px 30px;
+    border-radius: 8px;
+    border: 1px solid white;
+}
+.footer{
+    background-color: #1F2937;
+    color: #e5e7e5;
+    padding: 5%;
+}
+.footer p{
+    text-align: center;
+}
     
 
 
